@@ -99,3 +99,5 @@ void greedy_tour_from_each_square() {
     printf("\n");
   }
 }
+
+//final

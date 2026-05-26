@@ -1,1 +1,1 @@
-Knights tour. Compile main.c file and run compiled file.
+A program that solves the Knight's Tour problem using a greedy algorithm on a configurable board (default 8x8). Starting from every square on the board, the knight picks the first valid move available and continues until no more moves are possible. The result is printed as a grid showing how many squares the knight managed to visit from each starting position. Compile with `clang main.c -o main.exe` and run with `.\main.exe`.
